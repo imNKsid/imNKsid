@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Nitesh Kumar.<br>
 Currently I'm working as a Software Developer in SpurTree Technologies, Bangalore, India. <br>
-I try learning something additional in a regular interval of time.<br>
+I try learning something additional in a regular interval of time.<br><br><br>
 Here are  some links which you can check it out - <br>
 https://imnksid.github.io/Animation/animation.htm <br>
 https://imnksid.github.io/Animation/complexAnimation.html
