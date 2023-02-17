@@ -22,3 +22,4 @@ https://imnksid.github.io/Animation/animation.htm <br>
 https://imnksid.github.io/Animation/complexAnimation.html <br>
 https://imnksid.github.io/Calculator/ <br>
 https://imnksid.github.io/Calendar/ <br>
+https://imnksid.github.io/DigitalClock/ <br>
