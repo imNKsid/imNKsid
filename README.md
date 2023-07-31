@@ -18,7 +18,7 @@ My name is Nitesh Kumar.<br>
 Currently, I'm working as a Software Developer in SpurTree Technologies, Bangalore, India. <br>
 I try learning something additional in a regular interval of time.<br><br>
 If you're reading this, don't forget to check two of my repositories - <br>
-https://github.com/imNKsid/SnakeGame <br>
+https://github.com/imNKsid/SnakeGame - You can also download the Android game(.apk file) from here - https://rb.gy/tbb81 <br>
 https://github.com/imNKsid/MusicPlayerRN <br><br>
 I've made some tiny projects using HTML, CSS, and JavaScript. Here are some links which you can check out - <br>
 https://imnksid.github.io/Animation/animation.htm <br>
